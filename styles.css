@@ -37,6 +37,6 @@ footer {
     border: 10px solid #dd0808;
 }
 .fcc-logo {
-    width: 500px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
+    width: 500px; 
+    height: auto; 
 }
