@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #19e412;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+#editor {
+    width: 95%;
+    height: 300px;
+    padding: 10px;
+    border: 9px solid #fa0505;
+    border-radius: 4px;
+    font-size: 16px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+#preview {
+    padding: 10px;
+    border: 9px solid #fa0505;
+    border-radius: 9px;
+    background-color: #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    white-space: pre-wrap;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 30px;
+    background-color: #a39696;
+    border: 10px solid #dd0808;
+}
+.fcc-logo {
+    width: 500px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
